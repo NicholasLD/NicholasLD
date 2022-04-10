@@ -10,3 +10,9 @@
 
 [![BiliBili](https://img.shields.io/badge/-NicholasLD-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/40847359)
 
+## Working Languages
+
+![Java](https://img.shields.io/badge/-Java-8892bf?style=flat-square&logo=Java&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
+![PHP](https://img.shields.io/badge/-PHP-8892bf?style=flat-square&logo=PHP&logoColor=fff)
+
